@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExViews</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="tel">Telefone:</string>
+    <string name="whats">WhatsApp</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="contato">Periodo para contato:</string>
+    <string name="manha">Manha</string>
+    <string name="tarde">Tarde</string>
+    <string name="noite">Noite</string>
+    <string name="limpar">Limpar</string>
+    <string name="confirmar">Confirmar</string>
+
+</resources>
